@@ -1,0 +1,2 @@
+# awabot
+discord bot
